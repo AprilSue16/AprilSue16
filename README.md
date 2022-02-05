@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Subin.
 - 👀 I’m interested in Deep Learning.
-- 🌱 I’m currently learning Statistics.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? tkdnjf1620@naver.com
+- 🌱 I’m attending graduate school now.
+- :mortar_board: I’m majoring in Statistics.
+- 📫 How to reach me ? tkdnjf1620@naver.com or tkdnjf1620@korea.ac.kr
 - :computer: Programming Skills : Python, R, SQL
 
 <!---
