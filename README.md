@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Statistics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? tkdnjf1620@naver.com
-- Programming Skills:computer:
+- :computer: Programming Skills #4479A1
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <!---
