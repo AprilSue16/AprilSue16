@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Subin.
+- 👋 Hi, I’m SB.
 - 👀 I’m interested in Deep Learning.
 - 🌱 I’m attending graduate school now.
 - :mortar_board: I’m majoring in Statistics.
 - :computer: Programming Skills : Python, R, SQL
-- 📫 How to reach me ? tkdnjf1620@naver.com or tkdnjf1620@korea.ac.kr
+- 📫 How to reach me ? tkdnjf1620@naver.com
 - My Notion Link : 
 
 <!---
