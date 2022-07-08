@@ -3,7 +3,7 @@
 - 🌱 I’m attending graduate school now.
 - :mortar_board: I’m majoring in Statistics.
 - :computer: Programming Skills : Python, R, SQL
-- 📫 How to reach me ? tkdnjf1620@naver.com
+- 📫 How to reach me ? 
 - My Notion Link : 
 
 <!---
